@@ -1,5 +1,5 @@
 // [AV]vip by Chotaire Seelowe (Cannibals)
-// Use BUTTON SecretMenu*|90210 and remove TOMENU entry for SecretMenu*
+// https://git.chotaire.net/cannibals/avsitter-vip
 
 string version = "v0.1";
 list aWhiteList = [];
