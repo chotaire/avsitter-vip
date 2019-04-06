@@ -10,7 +10,7 @@ Limit access to AVsitter menus by reading single usernames from access file
 
 ## AVpos Notes
 
-**BUTTON VIP*|90210**
+**BUTTON VIP\*|90210**
 This displays the custom button 'VIP', using channel 90210 for communications, do not change this number. You can change the button label 'VIP' to something else, but do not remove the * asterisk behind the name.
 
 **MENU VIP** 
