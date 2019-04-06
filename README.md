@@ -10,4 +10,4 @@ BUTTON VIP*|90210 (This displays the custom button, using channel 90210 for comm
 
 MENU VIP (This is where you put your access restricted entries but remember to change 'VIP' to the same label used for the button)
 
-In the supplied AVpos example we have to SitTargets so that is why you see both BUTTON VIP* and MENU VIP twice. Enjoy!
+Enjoy!
