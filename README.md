@@ -16,5 +16,4 @@ This displays the custom button 'VIP', using channel 90210 for communications, d
 **MENU VIP** 
 This is where you put your access restricted entries but remember to change 'VIP' to the same label used for the button.
 
-Have fun!
-Cann!bal #1
+Enjoy!
