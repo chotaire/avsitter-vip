@@ -8,6 +8,10 @@ Limit access to AVsitter menus by reading single usernames from access file
 - Edit access file and add legacy usernames as desired and copy into same prim
 - Inspect AVpos to see an implementation example explained below.
 
+## Download
+
+Download here: [Releases](releases/)
+
 ## AVpos Notes
 
 **BUTTON VIP\*|90210**
