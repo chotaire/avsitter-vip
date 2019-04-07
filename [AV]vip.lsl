@@ -23,9 +23,10 @@
 
    MENU VIP
    This is where you put your access restricted entries but remember to change 
-   ‘VIP’ to the same label as used for the button. */
+   ‘VIP’ to the same label as used for the button. 
+*/
 
-string version = "v0.1";
+string version = "v0.1.1";
 list aWhiteList = [];
 integer aLine;
 key aQuery;
