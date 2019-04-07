@@ -23,8 +23,7 @@
 
    MENU VIP
    This is where you put your access restricted entries but remember to change 
-   ‘VIP’ to the same label as used for the button.
-*/
+   ‘VIP’ to the same label as used for the button. */
 
 string version = "v0.1";
 list aWhiteList = [];
@@ -69,7 +68,6 @@ state running
 {
     link_message(integer sender, integer num, string msg, key id)
     {
-        
         if(num == 90210)
         {
             integer idx = llListFindList(aWhiteList,[llKey2Name(id)]);
