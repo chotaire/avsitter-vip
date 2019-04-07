@@ -33,7 +33,6 @@ key aQuery;
 key avatar;
 key owner;
 integer ready = 0;
-integer ready2 = 0;
 
 default
 {
@@ -56,7 +55,6 @@ default
             else
             {
                 llWhisper(0, "[AV]vip - Loaded VIPs with elevated access.");
-                ready2 = 1;
                 if (ready == 1) 
                     {
                     llWhisper(0, "[AV]vip - Version " + version + " ready.");
