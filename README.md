@@ -10,7 +10,7 @@ Limit access to AVsitter menus by reading legacy usernames from access file
 
 ## Download
 
-You can get the latest release from here: [Github](https://github.com/chotaire/avsitter-vip/releases)
+You can download the latest release from [Github](https://github.com/chotaire/avsitter-vip/releases) or [Chotaire Git](https://git.chotaire.net/cannibals/avsitter-vip/releases)
 
 ## AVpos Notes
 
