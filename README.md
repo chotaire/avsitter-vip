@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Limit access to AVsitter menus by reading legacy usernames from access file
+Limit access to AVsitter menus to a list of legacy usernames read from notecard
 
 - Compile [AV]vip and place in same prim with other [AV]scripts
 - Edit access file and add legacy usernames as desired and copy into same prim
