@@ -20,4 +20,4 @@ This displays the custom button 'Hidden', using channel 90410 for communications
 
 **MENU Hidden** 
 
-This is where you put your access restricted entries but remember to change 'VIP' to the same label as used for the button.
+This is where you put your access restricted entries but remember to change 'Hidden' to the same label as used for the button.
