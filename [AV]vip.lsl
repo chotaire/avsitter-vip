@@ -15,8 +15,8 @@
    AVpos Notes:
    ------------
 
-   BUTTON VIP*|90210
-   This displays the custom button ‘VIP’, using channel 90210 for communications, 
+   BUTTON VIP*|90410
+   This displays the custom button ‘VIP’, using channel 90410 for communications, 
    do not change this number. You can change the button label ‘VIP’ to something 
    else, but do not remove the * asterisk behind the name. Remember, do not use 
    'TOMENU' option for this restricted menu as it would override.
@@ -79,7 +79,7 @@ state running
             }
             else 
             {
-                llMessageLinked(LINK_SET, 90004, "", id);
+                llMessageLinked(LINK_SET, 90005, "", id);
                 llRegionSayTo(id, 0, "Access denied.");
             }
         }
