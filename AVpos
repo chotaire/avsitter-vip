@@ -1,7 +1,7 @@
 MTYPE 0
 SITTER 0|
 TOMENU Cuddles
-BUTTON VIP*|90210
+BUTTON Hidden*|90410
 
 MENU Cuddles
 SYNC Chill|Converse-7-M
@@ -12,7 +12,7 @@ SYNC Pinned|Pinned-M
 SYNC Hold|Couple Wallprop-M
 SYNC Flirt|mal1
 
-MENU VIP
+MENU Hidden
 SYNC Pinned XXX|Against the Wall-3-M
 
 {Chill}<0.364310, -0.982060, 0.291520><-94.648020, -0.946680, -85.704590>
@@ -27,7 +27,7 @@ SYNC Pinned XXX|Against the Wall-3-M
 SITTER 1|
 
 TOMENU Cuddles
-BUTTON VIP*|90210
+BUTTON Hidden*|90410
 
 MENU Cuddles
 SYNC Chill|Converse-7-F
@@ -38,7 +38,7 @@ SYNC Pinned|Pinned-F
 SYNC Hold|Couple Wallprop-F
 SYNC Flirt|fem1
 
-MENU VIP
+MENU Hidden
 SYNC Pinned XXX|Against the Wall-3-F
 
 {Chill}<-0.298320, -1.065800, 0.207230><-87.998730, 0.207620, -89.013110>
