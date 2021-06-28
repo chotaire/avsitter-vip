@@ -69,7 +69,7 @@ state running
 {
     link_message(integer sender, integer num, string msg, key id)
     {
-        if(num == 90210)
+        if(num == 90410)
         {
             integer idx = llListFindList(aWhiteList,[llKey2Name(id)]);
             
